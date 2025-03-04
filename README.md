@@ -1,7 +1,7 @@
 # Module5
  In this first practical application assignment of the program, we were asked to seek an answer to the question, “Will a customer accept the coupon?” based on the coupons.csv dataset.
 
-This is a brief nontechnical report highlighting the differences between customers who did and did not accept the coupons.
+This is a brief nontechnical report highlighting the differences between customers who did and did not accept the coupons.My findings and data interpretation are catpurted in this Jupyter Notebook called Solprompt.ipynb file attached in this repo along with the coupons dataset.Utilized Matplotlib and Seaborn libraries to create a visualization using Python.
 
 56.84% of customers accepted the coupon.
 43.16% of customers rejected the coupon.

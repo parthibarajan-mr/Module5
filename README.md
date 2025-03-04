@@ -31,5 +31,5 @@ Coffee Coupon Interpretation:-
 It is interesting to notice the young drivers with age below 21 has higher acceptance rate for Coffee coupons, whereas elderly population with 50 plus shows slightly less acceptance but all other intermediate groups show around 50% acceptance.
 
 Carry Out Coupon and Take Away coupons findings:
-1. Baesd on Marital status, Divorced and Widowed drivers accepted Carry Out Coupon and Take Away coupon mostly.
+1. Based on Marital status, Divorced and Widowed drivers accepted Carry Out Coupon and Take Away coupon mostly.
 2. Drivers below 21 accepted most of the Carry Out Coupon and Take Away coupon whereas drivers above the age of 21 declined them mostly.

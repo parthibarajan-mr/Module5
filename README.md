@@ -1,8 +1,7 @@
 # Module5
  In this first practical application assignment of the program, we were asked to seek an answer to the question, “Will a customer accept the coupon?” based on the coupons.csv dataset.
- Brief nontechnical report highlighting the differences between customers who did and did not accept the coupons.
- 
-Insights from Y Distribution:
+ This is a brief nontechnical report highlighting the differences between customers who did and did not accept the coupons.
+
 56.84% of customers accepted the coupon.
 43.16% of customers rejected the coupon.
 

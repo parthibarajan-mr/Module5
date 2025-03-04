@@ -19,6 +19,7 @@ Bar Coupon Interpretation:-
 Drivers who go to the bar more than once a month and are over 21 are more likely to accept the Bar coupons.
 Age Factor: Younger drivers, particularly those under the age of 30, show higher acceptance rate for Bar coupons.                                                   
 Marital Status and Occupation: Drivers who are not widowed and have occupations outside of farming, fishing, or forestry are more likely to accept Bar coupons.
+My hypothesize suggest that factors like age and marital status, frequency of bar visits, economic status, and dining habits play critical roles in determining the likelihood of accepting Bar coupons.
 
 Coffee Coupon findings:
 1. Percentage of Coffee coupons accepted is: 49.92%
@@ -30,9 +31,5 @@ Coffee Coupon Interpretation:-
 It is interesting to notice the young drivers with age below 21 has higher acceptance rate for Coffee coupons, whereas elderly population with 50 plus shows slightly less acceptance but all other intermediate groups show around 50% acceptance.
 
 Carry Out Coupon and Take Away coupons findings:
-1. 
-
-Carry Out Coupon and Take Away coupons Interpretation:-
-
-
-
+1. Baesd on Marital status, Divorced and Widowed drivers accepted Carry Out Coupon and Take Away coupon mostly.
+2. Drivers below 21 accepted most of the Carry Out Coupon and Take Away coupon whereas drivers above the age of 21 declined them mostly.

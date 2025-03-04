@@ -6,7 +6,7 @@ This is a brief nontechnical report highlighting the differences between custome
 56.84% of customers accepted the coupon.
 43.16% of customers rejected the coupon.
 
-Missing data: With approximately 99% of the values for 'car' being blank it isn't really adding much value to the dataset.
+Missing data: With approximately 99% of the values for 'car' being blank it isn't really adding much value to the dataset.Hence dropped the car column.
 
 Bar Coupon findings:
 1. Percentage of Bar coupons acceptance is: 41.00%
